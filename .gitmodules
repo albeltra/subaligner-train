@@ -1,3 +1,6 @@
 [submodule "subaligner"]
 	path = subaligner
 	url = https://github.com/albeltra/subaligner.git
+[submodule "plex-audio-subtitle-switcher"]
+	path = plex-audio-subtitle-switcher
+	url = https://github.com/albeltra/plex-audio-subtitle-switcher.git
